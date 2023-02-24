@@ -1,0 +1,15 @@
+{
+  
+  "main": "index.js",
+  "bin": {
+    "conway": "./play.js"
+  },
+  "scripts": {
+    "play": "node play.js"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81"
+  },
+  "licence": "MIT",
+  "private": false
+}
